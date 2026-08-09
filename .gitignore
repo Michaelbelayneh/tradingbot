@@ -1,0 +1,3 @@
+git rm --cached .env
+git commit -m "remove .env from repo"
+git push
